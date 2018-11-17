@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+html, body {
+    margin-top: 5px;
+    padding: 0;
+    height: 90%;
+    position: relative;
+    background: #000;
+    font-family: "Courier New";
+}
+a{
+text-decoration: underline;
+text-decoration-style: dotted; 
+color: #00ff00;
+}
+.hide {
+display: none;
+}
+#results {
+color: #00ff00;
+font-size: 10px;
+font-family: "courier new";
+font-size: .7em;
+}
+#menu {
+padding: 10px 0;
+display: none;
+background: transparent;
+}
+#editor {
+width: 100%;
+height: 90%;
+resize: none;
+font-family: "courier new"; /* special elite */
+font-weight: 700;
+font-size: 20px;
+line-height: 1.8em;
+color: #00ff00;
+box-sizing: border-box;
+outline: 0;
+border-top: 1px solid #0c0;
+border-bottom: 1px solid #0c0;
+border-left: 0;
+border-right: 0;
+background: #000;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+overflow-y: scroll;
+overflow-x: hidden;
+outline: none;
+word-wrap: break-word;
+white-space: pre-wrap;
+}
+#dialog-confirm, #saveas, #loadfile, #settings {
+display: none;
+}
