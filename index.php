@@ -57,16 +57,10 @@ Characters: <span id="charCount">0</span> -
 </div>
 <!-- HIDDEN DEFAULT -->
 
-
-<!-- SCRIPT SRC -->
 <script src="fokuslab.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.3/howler.min.js" async defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.27/pdfmake.min.js" async defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.27/vfs_fonts.js" async defer></script>
-<!-- SCRIPT SRC -->
 
-<!-- GOOGLE ANALYTICS -->
-
-<!-- GOOGLE ANALYTICS -->
 </body>
 </html>
