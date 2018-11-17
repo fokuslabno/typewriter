@@ -57,10 +57,9 @@ Characters: <span id="charCount">0</span> -
 </div>
 <!-- HIDDEN DEFAULT -->
 
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
 
 <!-- SCRIPT SRC -->
-<script src="mintutvikling.js"></script>
+<script src="fokuslab.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.3/howler.min.js" async defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.27/pdfmake.min.js" async defer></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.27/vfs_fonts.js" async defer></script>
